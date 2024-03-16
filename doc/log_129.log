@@ -1,0 +1,70 @@
+Folder D:\idmDownload\DwnlData\L2960\master_129\ was created.
+重建已下载的文件块...
+正在连接中...
+Windows 10.0
+v6.38b02   Time: Fri Jan 19 20:51:55.651 2024 (1705668715 sec)
+Url https://codeload.github.com /gofinal/SchoolMap/zip/refs/heads/master
+User : anonymous, password :xxx
+EM = 0x750b9ce0, 0x750b9ce0,
+DM = 0x750b9d40, 0x750b9d40.
+Time: 1705668715.652
+C0:gethost
+C0:Found 20.205.243.165
+Time: 1705668715.654
+C0:正在连接...
+C0:Checking connect, socket = 2756 
+C0:连接成功。
+Time: 1705668715.861
+C0:175 bytes of handshake (2) data sent
+C0:2658 bytes of handshake data received (L711)
+C0:93 bytes of handshake (4) data sent
+C0:51 bytes of handshake data received (L711)
+C0:InitializeSecurityContext (2) ret=0x0
+C0:Handshake was successful
+C0:Protocol: 0x800
+Cipher: 0x660e
+Cipher strength: 128
+Hash: 0x800c
+Hash strength: 0
+Key exchange: 0xae06
+Key exchange strength: 255
+C0:发送获取 (GET) 命令...
+C0:Header: 13, Trailer: 16, MaxMessage: 16384
+C0:888 bytes of request sent
+C0:HTTP/1.1 200 OK
+C0:Access-Control-Allow-Origin: https://render.githubusercontent.com
+C0:content-disposition: attachment; filename=SchoolMap-master.zip
+C0:Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+C0:Content-Type: application/zip
+C0:cross-origin-resource-policy: cross-origin
+C0:ETag: "4ef53d0e423e5e8c7935cd97d30ec9595de2152a235275be08e8cb2141048b3e"
+C0:Strict-Transport-Security: max-age=31536000
+C0:Vary: Authorization,Accept-Encoding,Origin
+C0:X-Content-Type-Options: nosniff
+C0:X-Frame-Options: deny
+C0:X-XSS-Protection: 1; mode=block
+C0:Date: Fri, 19 Jan 2024 12:51:57 GMT
+C0:Transfer-Encoding: chunked
+C0:X-GitHub-Request-Id: 99F6:243A2F:77E8E:154CE5:65AA706C
+C0:
+C0:正在接收数据...
+正在接收数据...
+time 1705668719, speed 38350, downl 87406 Bytes
+time 1705668722, speed 34045, downl 162768 Bytes
+time 1705668725, speed 26447, downl 217578 Bytes
+C0:正在接收数据...
+time 1705668728, speed 29583, downl 306656 Bytes
+time 1705668730, speed 37483, downl 395800 Bytes
+time 1705668733, speed 26370, downl 428607 Bytes
+time 1705668735, speed 41320, downl 587715 Bytes
+time 1705668738, speed 54270, downl 679540 Bytes
+time 1705668740, speed 40946, downl 776854 Bytes
+time 1705668743, speed 52145, downl 922161 Bytes
+time 1705668745, speed 52709, downl 1023635 Bytes
+time 1705668748, speed 43668, downl 1134633 Bytes
+time 1705668751, speed 53598, downl 1281350 Bytes
+time 1705668751, speed 56544, downl 1301904 Bytes
+C0:stratPos=0, endPos=0, downloaded=1301904, posInCmpBuff3=0
+C0:Sending Close Notify
+C0:断开。
+Cancel by user.
